@@ -1,0 +1,11 @@
+{
+    "name": "DB Migrate",
+    "description": "Automatically migrates database",
+    "keywords": [
+    ],
+    "scripts": {
+      "dokku": {
+        "postdeploy": "bundle exec rake db:migrate"
+      }
+    }
+  }
