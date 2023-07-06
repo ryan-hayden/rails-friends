@@ -1,6 +1,6 @@
 {
-    "name": "DB Migrate",
-    "description": "Automatically migrates database",
+    "name": "Friends App",
+    "description": "Application from Codemy tutorial",
     "keywords": [
     ],
     "scripts": {
